@@ -1,0 +1,4 @@
+/.idea
+/elasticsearch/data/*
+!/elasticsearch/data/.gitkeep
+.env
